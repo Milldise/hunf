@@ -1,12 +1,12 @@
 {
-  "homepage": "https://milldise.github.io/mobile_projects",
+  "homepage": "https://milldise.github.io/lokp",
 
   "name": "new",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy":"npm run dist",
     "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
