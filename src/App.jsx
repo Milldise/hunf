@@ -24,7 +24,7 @@ class App extends React.Component{
           {
             id: 2,
             title: "Ardor Gaming",
-            image: "../img/ardorg.png",
+            image: "./img/ardorg.png",
             desc: "----------",
             category: "Gaming Laptop",
             price: "1000.00"
@@ -87,7 +87,7 @@ class App extends React.Component{
           {
             id: 9,
             title: "Acer Nitro",
-            image: "../img/acerg.png",
+            image: "./img/acerg.png",
             desc: "----------",
             category: "Gaming Laptop",
             price: "599.99"
@@ -96,7 +96,7 @@ class App extends React.Component{
           {
             id: 10,
             title: "Acer Swift",
-            image: "../img/acerswift.png",
+            image: "./img/acerswift.png",
             desc: "----------",
             category: "Ultrabook",
             price: "599.99"
@@ -105,7 +105,7 @@ class App extends React.Component{
           {
             id: 11,
             title: "Asus VivoBook",
-            image: "../img/asusvb.png",
+            image: "./img/asusvb.png",
             desc: "----------",
             category: "Ultrabook",
             price: "599.99"
@@ -114,7 +114,7 @@ class App extends React.Component{
           {
             id: 12,
             title: "DEX Aquilon",
-            image: "../img/dexpaquilon.png",
+            image: "./img/dexpaquilon.png",
             desc: "----------",
             category: "Office",
             price: "599.99"
@@ -123,7 +123,7 @@ class App extends React.Component{
           {
             id: 13,
             title: "Honor Magic",
-            image: "../img/honowmagic.png",
+            image: "./img/honowmagic.png",
             desc: "----------",
             category: "Ultrabook",
             price: "599.99"
@@ -132,7 +132,7 @@ class App extends React.Component{
           {
             id: 14,
             title: "HP 240",
-            image: "../img/Hp240.png",
+            image: "./img/Hp240.png",
             desc: "----------",
             category: "Office",
             price: "599.99"
@@ -141,7 +141,7 @@ class App extends React.Component{
           {
             id: 15,
             title: "Huawei MateBook",
-            image: "../img/huaweimatebookd16.png",
+            image: "./img/huaweimatebookd16.png",
             desc: "----------",
             category: "Office",
             price: "599.99"
@@ -150,7 +150,7 @@ class App extends React.Component{
           {
             id: 16,
             title: "MacBook Pro",
-            image: "../img/macbookair.png",
+            image: "./img/macbookair.png",
             desc: "----------",
             category: "MacBook",
             price: "599.99"
@@ -159,7 +159,7 @@ class App extends React.Component{
           {
             id: 17,
             title: "MacBook Air",
-            image: "../img/macbookairr.png",
+            image: "./img/macbookairr.png",
             desc: "----------",
             category: "MacBook",
             price: "599.99"
@@ -168,7 +168,7 @@ class App extends React.Component{
           {
             id: 18,
             title: "Lenovo V15",
-            image: "../img/lenovov15.png",
+            image: "./img/lenovov15.png",
             desc: "----------",
             category: "Office",
             price: "599.99"
