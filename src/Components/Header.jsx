@@ -37,7 +37,7 @@ export default function Header(props) {
 
                 {cartOpen && (  
                     <div className="basket">
-                        {props.orders.length >0 ? ShowOrders(props) :ShowNothing()}
+                        {props.orders.length >0 ? ShowOrders(props) : ShowNothing()}
                             
                             
                     </div>
